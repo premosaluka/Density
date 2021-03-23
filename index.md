@@ -1,4 +1,4 @@
-# Breast density calculation through quantitive analysis of mammographic images 
+# Breast density calculation using quantitive analysis of mammographic images 
 
 ## Abstract
 
@@ -33,6 +33,14 @@ raw and processed mammograms in our study. Our models scored comparable
 κ values in comparison with results from literature where they assessed agreement
 between radiologists. Missclassifications of our models were associated with dense
 lesions and faulty segmentation of breast tissue and pectoral muscle.
+
+## Data
+We used 9252 pair of processed and raw mammograms from Slovenian Breast Cancer Screening Programme (DORA) database. For each patient we had 2 pairs of raw and processed images of same breast in CC and MLO views. Patients had density read only on one breast (either left or right). Breast density reading was performed only on images that were deamed suspicious. A futher diagnosis, however, found no cancer and patients were returned to DORA program. 
+
+ 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
