@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Breast density calculation through quantitive analysis of mammographic images 
 
-You can use the [editor on GitHub](https://github.com/premosaluka/Density/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Breast density is an important independent breast cancer risk factor.
+Breast density reading is not a part of the standard screening examination due to
+time considerations. Purpose of this project was to assess predictive power of computer
+algorithms for breast density reading using quantitative analysis of mammographic
+images. Our initial hypothesis was that raw images have higher predictive power
+than processed images due to preserved information of x-ray attenuation in breast
+tissue.
 
 ### Markdown
 
